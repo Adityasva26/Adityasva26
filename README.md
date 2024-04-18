@@ -1,4 +1,4 @@
-As a MERN stack developer with 2.5 years of experience, I have been deeply involved in developing modern web applications using the MERN (MongoDB, Express.js, React, Node.js) stack. My expertise lies in both front-end and back-end development, allowing me to contribute effectively to full-stack projects.
+As a MERN stack developer with 3.3 years of experience, I have been deeply involved in developing modern web applications using the MERN (MongoDB, Express.js, React, Node.js) stack. My expertise lies in both front-end and back-end development, allowing me to contribute effectively to full-stack projects.
 
 💼 Front-end Skills:
 
